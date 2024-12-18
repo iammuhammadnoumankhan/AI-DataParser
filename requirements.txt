@@ -1,0 +1,6 @@
+ollama
+pydantic
+rich
+tqdm
+python-dotenv
+argparse
