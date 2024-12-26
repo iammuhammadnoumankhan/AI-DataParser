@@ -1,3 +1,6 @@
 .env
 GUI.py
 tests/
+Fast-API/
+extraction_results.csv
+extraction_results.json

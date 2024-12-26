@@ -121,7 +121,7 @@ class DynamicExtractor:
                     {'role': 'user', 'content': text}
                 ],
                 format=EntitiesList.model_json_schema(),
-                options={'temperature': 0}
+                options={'temperature': 0.7}
             )
             
             return self._extract_structured_data(
@@ -160,7 +160,7 @@ class DynamicExtractor:
                         {'role': 'user', 'content': '', 'images': [img_file.read()]}
                     ],
                     format=EntitiesList.model_json_schema(),
-                    options={'temperature': 0}
+                    options={'temperature': 0.7}
                 )
             
             return self._extract_structured_data(
