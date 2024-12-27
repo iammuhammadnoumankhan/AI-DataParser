@@ -35,7 +35,7 @@ Modify the `.env` file with your Ollama server settings to ensure proper connect
 
 ## Usage
 
-**I will Recommend to watch this video on my youtube:** ![youtube](https://youtu.be/HqaddgHPY8Q)
+**I will Recommend to watch this video on my youtube:** [youtube](https://youtu.be/HqaddgHPY8Q)
 
 ### Basic Usage
 
